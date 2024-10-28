@@ -1,1 +1,1 @@
-# MasteryInstitute-SMM-website-MP-OK-V
+[DEMO](https://panasiuknazar.github.io/MasteryInstitute-SMM-website-MP-OK-V/)
